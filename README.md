@@ -1,3 +1,6 @@
+# this repo is no longer maintained
+The official repo for .NET Api is now moved to [pi-top-4-.NET-Core-API](https://github.com/pi-top/pi-top-4-.NET-Core-API)
+
 # pi-top
 .NET Core API for [pi-top4](https://www.pi-top.com/products/pi-top-4), check out the [dotnet/iot](https://github.com/dotnet/iot) repo for loads of device bindings!
 
